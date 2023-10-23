@@ -1,5 +1,7 @@
 ### Hi there, I'm Ansh Garg 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&random=false&width=435&lines=Enthusiastic+FrontEnd+Developer" alt="Typing SVG" /></a>
+
 <!--
 **Ansharg/Ansharg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
