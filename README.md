@@ -1,5 +1,5 @@
 ### Hi there, I'm Ansh Garg 👋
-<div style='display:flex, justify-content: center'>
+<div style='display:flex, justify-content: center, font-size: 10rem'>
   <p>Hi there, I'm Ansh Garg 👋</p>
 </div>
 
