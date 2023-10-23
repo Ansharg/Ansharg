@@ -1,7 +1,4 @@
 ### Hi there, I'm Ansh Garg 👋
-<div style='display:flex, justify-content: center, font-size: 10rem'>
-  <p>Hi there, I'm Ansh Garg 👋</p>
-</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&random=false&width=435&lines=Enthusiastic+FrontEnd+Developer" alt="Typing SVG" /></a>
 
