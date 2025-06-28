@@ -1,18 +1,56 @@
-### Hi there, I'm Ansh Garg 👋
+# 👋 Hi there, I'm Ansh Garg!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&random=false&width=435&lines=Enthusiastic+FrontEnd+Developer" alt="Typing SVG" /></a>
+🎯 **QA Engineer | Test Automation Specialist | Bug Hunter**
 
-<!--
-**Ansharg/Ansharg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm passionate about ensuring high-quality software through **robust test automation**, **efficient frameworks**, and **clean code**. With experience in **Selenium**, **Playwright**, and **RestAssured**, I build scalable, maintainable, and reliable test solutions that integrate seamlessly into CI/CD pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Tools
+
+| Category             | Tools & Frameworks                                 |
+|----------------------|-----------------------------------------------------|
+| 💻 Languages         | Java, JavaScript, Gherkin                           |
+| 🧪 Test Automation   | Selenium WebDriver, Playwright, Cucumber, RestAssured |
+| 🏗️ Backend Testing   | Java Spring Boot APIs, Postman, REST APIs           |
+| 🧰 Build & CI/CD     | Maven, Gradle, Jenkins, GitHub Actions              |
+| 🔍 Test Management   | Allure Reports, TestNG, JUnit, Zephyr               |
+| ☁️ Cloud & Containers| Docker, AWS (basics), Selenium Grid                 |
+| 📚 Other Tools       | Git, IntelliJ IDEA, VS Code, Jira, Confluence       |
+
+---
+
+## 🚀 What I Do
+
+- ✅ Write and maintain scalable automated test scripts (UI, API, E2E)
+- 🛠️ Develop BDD test frameworks using Cucumber + Java
+- 🔍 Ensure regression coverage with integration in CI/CD
+- 📈 Create detailed test reports with Allure and TestNG
+- 🔄 Collaborate with developers in agile teams to deliver bug-free features
+
+---
+
+## 🧪 Recent Projects
+
+- **🔹 API Test Automation** – Built a RestAssured test suite for validating microservices in a Spring Boot architecture.
+- **🔹 UI Regression Suite** – Created a cross-browser testing suite using Playwright & Selenium Grid.
+- **🔹 BDD Framework** – Developed a Cucumber BDD framework integrated with Jenkins pipelines and Allure reporting.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ansh-garg-59879a243/)
+- 📧 anshgarg94161@gmail.com
+
+---
+
+*“Quality is never an accident; it is always the result of intelligent effort.”* – John Ruskin
